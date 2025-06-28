@@ -6,10 +6,10 @@ Este problema não possui nenhuma entrada.
 Saída
 Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, conforme o exemplo abaixo.
 
-| Entrada | Saída        |
-|---------|--------------|
+|      Entrada      |    Saída     |
+|-------------------|--------------|
 | (nenhuma entrada) | Hello World! |
- */
+*/
 
 package problems;
 
